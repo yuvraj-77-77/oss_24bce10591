@@ -1,6 +1,6 @@
 Open Source Manifesto
 Author: Yuvraj Singh
-Date: 29 Mar 2026
+Date: 31 Mar 2026
 ------------------------
 
 I rely on VLC Media Player on a daily basis. It was built by folks who chose to share their code instead of hiding it.
